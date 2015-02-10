@@ -5,13 +5,14 @@
 * Email     : shestak.irina@gmail.com 
 * Twitter   : [@_lrlna](twitter.com/_lrlna)
 * GitHub    : [lrlna](github.com/lrlna)
+* Url(s)    : N/A 
 
 ## The story you'd like to tell
 
-[Presentation description goes here. Try to keep it under say, 500 words, but more than 140 characters]
+JavaScript. 20 years. The tale of adventure, creation, and infinite drama. This talk will walk you through the highlights of the last 20 years of JS development: the good, the bad, and the ugly. I want to explore the strangeness, the beauty, and the occasional nonsense of this wonderful language over the years. 
 
 ## Speaker Bio
 
-![](url to avatar image goes here)*avatar is required*
+![](avatar url)
 
-I'm an example bio. I'm a magical sloth that likes to crawl and climb through the forest and sit in the stream and I write code sometimes.
+Hey-o! I am a junior dev with 6(going on 7!) months of experience. Being a still in that honey moon stage with my code allows to be pretty much excited about every aspect of code. Exploring galore; possibilities - endless; opportunities - infinite. 
