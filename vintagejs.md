@@ -1,4 +1,4 @@
-# 20 years of javascript and counting.
+# while(js){ console.log(js); }
 
 * Name      : Ira Shestak 
 * Location  : Vancouver, BC, Canada 
