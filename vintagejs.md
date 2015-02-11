@@ -9,14 +9,15 @@
 
 ## The story you'd like to tell
 
-JavaScript. 20 years. The tale of adventure, creation, and infinite drama. I want to explore the strangeness, the beauty, and the occasional nonsense of this wonderful language over the years. Historical facts - not so much; programmatical development and people's experiences with it - heck, ya.
-
+JavaScript. 20 years. The tale of adventure, creation, and infinite drama.
+ 
 Yes, I am a junior, looking to speak about something that's been around for pretty much as long as myself
 
-Why? I want to explore this from a persepective of a n00b, looking backward into the unknown. That perspective is bound to vary. Rather than reminiscing about the past, I want to look at the good, the bad, the ugly, and the wimsical exactly the way it looks at this point in time. 
+Why? I want to see this from a persepective of a n00b, looking backward into the unknown. That perspective is bound to vary. Rather than reminiscing about the past, I want to look at the good, the bad, the ugly, and the wimsical exactly the way it looks at this point in time. I want to explore the strangeness, the beauty, and the occasional nonsense of this wonderful language over the years. Historical facts - not so much; programmatical development and people's experiences with it - heck, ya.
 
 
-## Speaker Bio
+
+## Speaker bio
 
 ![](avatar url)
 
