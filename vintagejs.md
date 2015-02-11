@@ -17,7 +17,6 @@ Why? I want to explore this from a persepective of a n00b, looking backward into
 
 questions to answer from people's feedback:
 	* what shaould the main focus be? --> not history, probably development over the years, all the wimsical nonsense people were doing.
-	* more confident bio. 
 ## Speaker Bio
 
 ![](avatar url)
