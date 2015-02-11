@@ -9,7 +9,7 @@
 
 ## The story you'd like to tell
 
-JavaScript. 20 years. The tale of adventure, creation, and infinite drama. This talk will walk you through the highlights of the last 20 years of JS development: the good, the bad, and the ugly. I want to explore the strangeness, the beauty, and the occasional nonsense of this wonderful language over the years. As part of preparation for the talk I want to interview various developers with javascript experience over the past two decades; as well as doing research on the actual variations of the code.
+JavaScript. 20 years. The tale of adventure, creation, and infinite drama. This talk will walk you through the highlights of the last 20 years of JS development: the good, the bad, and the ugly. I want to explore the strangeness, the beauty, and the occasional nonsense of this wonderful language over the years. As part of preparation for the talk I want to interview various people with javascript experience over the past two decades; as well as doing research on the actual variations of the code. I am talking everything from dreamweaver, the frameworks explosion, node.js, and the list goes on.
 
 ## Speaker Bio
 
