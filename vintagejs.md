@@ -9,14 +9,17 @@
 
 ## The story you'd like to tell
 
-JavaScript. 20 years. The tale of adventure, creation, and infinite drama. This talk will walk you through the highlights of the last 20 years of JS development: the good, the bad, and the ugly. I want to explore the strangeness, the beauty, and the occasional nonsense of this wonderful language over the years. I don't want to focus on its historical facts(hello wikipedia), but rather the programmatical development and people's experiences with it.
+JavaScript. 20 years. The tale of adventure, creation, and infinite drama. I want to explore the strangeness, the beauty, and the occasional nonsense of this wonderful language over the years.Historical facts - not so much; programmatical development and people's experiences with it - heck ya.
+
+Yes, I am a junior, looking to speak about something that's been around for pretty much as long as myself
+
+Why? I want to explore this from a persepective of a n00b, looking backward into the unknown. That perspective is bound to vary. Rather than reminiscing about the past, I want to look at the good, the bad, and the ugly exactly the way it is at this point in time. 
 
 questions to answer from people's feedback:
 	* what shaould the main focus be? --> not history, probably development over the years, all the wimsical nonsense people were doing.
-	* WHY should a junior do this presentation?? --> there are sooo many people who actually have lived through all the time, why should you be the one to talk about 20 years of js?
 	* more confident bio. 
 ## Speaker Bio
 
 ![](avatar url)
 
-
+Hey-o! I am junior dev 
