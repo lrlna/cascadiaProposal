@@ -13,7 +13,7 @@ JavaScript. 20 years. The tale of adventure, creation, and infinite drama. I wan
 
 Yes, I am a junior, looking to speak about something that's been around for pretty much as long as myself
 
-Why? I want to explore this from a persepective of a n00b, looking backward into the unknown. That perspective is bound to vary. Rather than reminiscing about the past, I want to look at the good, the bad, and the ugly exactly the way it is at this point in time. 
+Why? I want to explore this from a persepective of a n00b, looking backward into the unknown. That perspective is bound to vary. Rather than reminiscing about the past, I want to look at the good, the bad, the ugly, and the wimsical exactly the way it looks at this point in time. 
 
 questions to answer from people's feedback:
 	* what shaould the main focus be? --> not history, probably development over the years, all the wimsical nonsense people were doing.
@@ -22,4 +22,4 @@ questions to answer from people's feedback:
 
 ![](avatar url)
 
-Hey-o! I am junior dev 
+Irina Shestak: investigates the ancient runes of Javascript when she’s not busy being a secret agent. Daily contemplates art, music, intricacies of code and ancient civilizations.
