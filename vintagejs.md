@@ -25,4 +25,4 @@ A outline will include, but is not limited to:
 
 ![](avatar url)
 
-Irina Shestak: investigates the ancient runes of Javascript when she’s not busy being a secret agent. Daily contemplates art, music, intricacies of code and ancient civilizations.
+Irina Shestak: investigates the ancient runes of Javascript when she’s not busy being a secret agent. Daily contemplates art, music, intricacies of code and culture. 
