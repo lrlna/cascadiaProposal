@@ -18,7 +18,8 @@ Why? I want to see this from a persepective of a n00b, looking backward into the
 A outline will include, but is not limited to:
 
 * a brief illustrated(or shall I say animated?) history of JS;
-*	JS then and now. eg. dreamweaver and server side js.  
+*	JS then and now. eg. dreamweaver and server side js;  
+* results from interviews with those who have developed JS over the past two decades to help me get a different perspective; 
 
 ## Speaker bio
 
